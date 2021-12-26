@@ -1,4 +1,6 @@
-package main
+// 线性表顺序存储
+// 的各种方法
+package linear
 
 import (
 	"fmt"
